@@ -1,4 +1,4 @@
-[8:31 pm, 23/03/2025] Prashanth: // Online C compiler to run C program online
+
 #include <stdio.h>
 
 int main() {
